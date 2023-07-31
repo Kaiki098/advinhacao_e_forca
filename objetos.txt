@@ -1,0 +1,10 @@
+Cama 
+Mesa
+Banco
+Caneta
+Lapis
+Cobertor
+Pulseira
+Camiseta
+Camisa
+Sapato
